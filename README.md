@@ -15,7 +15,7 @@ python classify.py test image_path.png
 ```
 
 ## Custom Test Input
-![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/index.PNG)
+![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/index.png)
 
 
 ## Training Loss and Testing loss

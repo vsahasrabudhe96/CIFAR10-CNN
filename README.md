@@ -14,5 +14,15 @@ python classify.py test image_path.png
 
 ```
 
+## Custom Test Input
+![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/index.PNG)
+
+
 ## Training Loss and Testing loss
-![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/Training%20accuracy.PNG)
+![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/accuracy.PNG)
+
+## Prediction
+![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/prediction.PNG)
+
+## Output of filters after first convolutional operation
+![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/CONV_rslt.PNG)

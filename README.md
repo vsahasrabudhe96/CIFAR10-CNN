@@ -19,7 +19,7 @@ python classify.py test image_path.png
 
 
 ## Training Loss and Testing loss
-![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/accuracy.PNG)
+![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/accuracy.png)
 
 ## Prediction
 ![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/prediction.PNG)

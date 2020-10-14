@@ -22,7 +22,7 @@ python classify.py test image_path.png
 ![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/accuracy.png)
 
 ## Prediction
-![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/prediction.PNG)
+![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/prediction.png)
 
 ## Output of filters after first convolutional operation
 ![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/blob/main/CONV_rslt.PNG)

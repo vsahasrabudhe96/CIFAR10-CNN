@@ -13,3 +13,6 @@ python classify.py train
 python classify.py test image_path.png
 
 ```
+
+## Training Loss and Testing loss
+![alt text](https://github.com/vsahasrabudhe96/CIFAR10-CNN/Training accuracy.png?raw=true)
